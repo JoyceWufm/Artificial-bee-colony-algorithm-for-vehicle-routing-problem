@@ -3,29 +3,29 @@ Inspired by Szeto, W. Y., Wu, Y., &amp; Ho, S. C. (2011). An artificial bee colo
 
 ***This is the codes applying ABC algorithm in CVRP***
 
-Environment: Python 3.7.3, IDE: Spyder
+Environment: Python 3.7.3, IDE: Spyder  
 
-Needed packages: os, re, math, time, numpy, pandas, random, matplotlib
+Needed packages: os, re, math, time, numpy, pandas, random, matplotlib  
 
 ## Modules:
-main.py - the framework of whole ABC algorithm
-functions.py - list of functions used in ABC algorithm
-instances.py - read CVRP instances and save results
-results.py - visualize the results of ABC algorithm
+main.py - the framework of whole ABC algorithm  
+functions.py - list of functions used in ABC algorithm  
+instances.py - read CVRP instances and save results  
+results.py - visualize the results of ABC algorithm  
 
 ## Notebooks:
-results_vrpnc6.ipynb - results of instance vrpnc6 from ABC algorithm
-results_vrpnc14.ipynb - results of instance vrpnc14 from ABC algorithm
+results_vrpnc6.ipynb - results of instance vrpnc6 from ABC algorithm  
+results_vrpnc14.ipynb - results of instance vrpnc14 from ABC algorithm  
 
 ## Folders:
-Instances - where the all instances and their solutions stored
-Results - where the results from ABC algorithm will save
+Instances - where the all instances and their solutions stored  
+Results - where the results from ABC algorithm will save  
 
 ## HOW TO USE IT
-1. check the results of selected instances
-Run the results_**.ipynb or results.py
+1. check the results of selected instances  
+Run the results_**.ipynb or results.py  
 
-2. run the ABC algorithm
-Run the main.py and set the inputs properly
+2. run the ABC algorithm  
+Run the main.py and set the inputs properly  
 
-Note: if run on macOS, please replace '\\' in path with '/'
+Note: if run on macOS, please replace '\\' in path with '/'  
